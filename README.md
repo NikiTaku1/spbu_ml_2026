@@ -14,8 +14,8 @@
 7. Калибрация моделей
 8. Distribution shift
 9. Semi-supervised learning, continous learning
-10. LASSO
-10. Gaussian processes
+10. LOESS
+10. Gaussian processes?
   
 # Домашние задания
 В заданиях надо написать код, протестировать, проделать вычисления итп, на защите поговорить со мной.
