@@ -26,6 +26,7 @@
 # Results
 
 Best kaggle public score: 0.00954
+
 Best kaggle private score: 0.02241 (actually 0.02240)
 
 Tried but didn't improve score: 1nn, knn, knn with group separation by cat values unique combinations, catboost
