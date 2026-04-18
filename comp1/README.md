@@ -33,10 +33,9 @@ Pipeline explanation:
 13. label encoder on categoricals
 14. Convert values to sklearn format
 15. CV with KFold (5 folds)
-16*. tuning hyperparemeters with GridSearchCV
-17*. custom mape scorer for GridSearchCV
-18*. run cv and extract best models and parameters
-* final pipeline only has one model and one set of parameters to reduce compute time
+16. tuning hyperparemeters with GridSearchCV
+17. custom mape scorer for GridSearchCV
+18. run cv and extract best models and parameters (final pipeline only has one model and one set of parameters to reduce compute time)
 19. retrain model on full dataset
 20. Predict test and create submission file
 21. save model parameters as txt
